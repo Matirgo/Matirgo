@@ -1,3 +1,6 @@
+# Code taken from tobiasmeyhoefer.
+# Link: https://github.com/tobiasmeyhoefer/tobiasmeyhoefer/blob/main/.github/workflows/snake.yml
+
 name: GitHub Snake Game
 
 on:

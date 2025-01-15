@@ -65,4 +65,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Matirgo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- Template based on Github Profile Readme (GPRM) ( https://gprm.itsvg.in ) -->
+<!-- Template above based on Github Profile Readme (GPRM) ( https://gprm.itsvg.in ) -->
+
+<!-- Snake eating Github commits, taken from tobiasmeyhoefer (https://github.com/tobiasmeyhoefer/tobiasmeyhoefer/blob/main/README.md?plain=1)-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
