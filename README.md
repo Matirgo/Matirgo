@@ -1,16 +1,15 @@
 # 💫 Hi, I'm Matas!
 👨‍💻 Data Scientist, Software Engineer, and Biostatistician on a journey of growth and development.<br/>
 👨‍🎓 [M.Sc. Computer Science](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T195&KEYWORD=msc%20computer%20science%20conversion) graduate from University College Dublin, and [B.Sc. (Hons) Human Health & Disease](https://www.tcd.ie/courses/undergraduate/courses/human-health-and-disease/) graduate from Trinity College Dublin.<br/>
-🗺️ Language lover: speaking fluent󠁧 🇬🇧 English, and 🇱🇹 Lithuanian; intermediate 🇫🇷 French, 🇮🇪 Irish, and 🇰🇷 Korean; and beginner 🇭🇰 Cantonese, and 🇨🇳 Mandarin .<br/>
+🗺️ Language lover: speaking fluent󠁧 🇬🇧 English and 🇱🇹 Lithuanian; intermediate 🇫🇷 French, 🇮🇪 Irish, and 🇰🇷 Korean; and beginner 🇭🇰 Cantonese and 🇨🇳 Mandarin.<br/>
 🎥 Ocassionally making whimsical video content on [YouTube](https://www.youtube.com/@Matirgo).
-
 
 ## 🌐 Check out my Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matasmartinaitis/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Matirgo) 
 
 # 💻 Tech Stack
 
-## 💬 Languages & Associated Frameworks, Platforms, and Libraries
+## 💬 Languages & Associated Frameworks, Platforms, Libraries, Operating Systems, and Shells
 
 ### 👷‍♀️ Back End Development
 <!-- Languages -->
@@ -19,7 +18,7 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### 👨‍🔬 Database Management
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 👨‍🎨 Front End Development
 <!-- Languages -->
@@ -38,11 +37,14 @@
 ### 🤖 Multi-Agent Systems
 ![Astra](https://img.shields.io/badge/astra-5C2EDE?style=for-the-badge&logo=astra&logoColor=white)
 
+### ⚙️ Operating Systems and Shells
+![GNU Bash](https://img.shields.io/badge/gnu%20bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![PowerShell](https://img.shields.io/badge/powershell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
 ### 📄 Other Languages
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### 🔧 Accompanying Tools
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Overleaf](https://img.shields.io/badge/overleaf-47A141.svg?style=for-the-badge&logo=overleaf&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/apache%20airflow-017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=black) ![Overleaf](https://img.shields.io/badge/overleaf-47A141.svg?style=for-the-badge&logo=overleaf&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=gnome-terminal&logoColor=white)
 
 ## ☁️ Cloud Technologies
 <!-- Cloud-based Tools -->
